@@ -226,7 +226,6 @@ Delawoe Amevinya Kwasi
 
 - AWS Documentation
 - AWS Well-Architected Framework
-- Claude AI for technical guidance
 
 ---
 
